@@ -11,7 +11,7 @@ export default function Home() {
       {/* <p>Welcome to Home page</p> */}
 
       <div className="hero py-20">
-        <div className="container mx-auto flex">
+        <div className="container mx-auto flex items-center">
           <div className="w-1/2">
             <h6 className="text-lg">
               <em>Are you hungry?</em>
